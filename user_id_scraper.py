@@ -7,7 +7,7 @@ headers = {
     "Accept": "application/json, text/plain, */*",
     "Accept-Encoding": "gzip, deflate, br",
     "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
-    "Authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI2IiwianRpIjoiOWY5OWExMjllYmRjNzMxYjY0ZTIyMjNiMDk1ZWYxZjk5MDRjOWIzMTFkMzZkZTg3OTU5Nzg5MjRlMjRlMmRmMzQwMWRkZTg1NzAwNzEwZGEiLCJpYXQiOjE3MjA1MjYyMDEuODk2NDY2LCJuYmYiOjE3MjA1MjYyMDEuODk2NDY5LCJleHAiOjE3MjA2MTI2MDEuODEyMzUyLCJzdWIiOiIyMDA2MjI2Iiwic2NvcGVzIjpbXX0.r0GTMO9edN_w89Ew8jXVyg20GMMVv4G_wA7lK00kPgw0563zzzmRfVgNdT3hMjL8EHfoiQDIsJMxKuwZlhG3__YC3uWacABnzKC9usANi8SHdLRd2wDmeA3lS4u8xLINNpKRCfQQhXJDgpDiVlsUmqJ2mmTtlDjftw8kCoqQptCh8ep82w0p94t4dHUGwCTg9Z2SgAlJJQtX6cFGCy6NmUXJmQMCqQXlqAyZYo2FvdkBGPRTpqxlQjXCdDumhLZfRfYI1EgcFk3nCwwfv08XYelc1_68tZ00BwKcP7y7UJUQGdF8aameNdlYxirkQZWA7S9ZO5WosZkb9YZk2mNpSNE-sqspDtNq_HFPPXc88S7S_Jb3Atm80vhcMmt8bFDoT1qMkVuUQVVnaoYqE-ec-hSKCuxxamYha3SMvmpfXy4kdc_q1wTVbf8va2g5Hh7Yo01FAm-dIlAWm43ujhKLHtZ2TNdgzVI_X0eUtD1iWLozzLkthinbfq2sS1Gb0YEUp8xMxuKT6uSXtqF34a9QYvqBRaWYAiTfPqMd0A1S9h2P43wb-Yvc_vYZ8HHfhIjW0fCykzo4YanbIGw89TAquCyePtE3aiNqOLcPriFfdJshcqomfe9APxIryRjuKYd6NsDGQuWDHfRma_3DQlSA7sc_RD9qxHJIfHEdhfjKzt4",
+    "Authorization": "",
     "Origin": "https://app.hackthebox.com",
     "Referer": "https://app.hackthebox.com/",
     "Sec-Ch-Ua": '"Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"',
